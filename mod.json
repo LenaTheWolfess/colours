@@ -1,0 +1,8 @@
+{
+  "name": "colours",
+  "version": "1.0.0",
+  "label": "GUI",
+  "description": "Change colour scheme",
+  "ignoreInCompatibilityChecks": true,
+  "dependencies": ["0ad>=0.0.26"]
+}
